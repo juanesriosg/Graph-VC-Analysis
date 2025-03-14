@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-03-01">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Kayentis" label="Kayentis">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Benoit Zilber" label="Benoit Zilber">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Cedric Berger" label="Cedric Berger">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Franck Noiret" label="Franck Noiret">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="BlaBlaCar" label="BlaBlaCar">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Michael Zeisser" label="Michael Zeisser">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Jonas Nordlander" label="Jonas Nordlander">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Vestiaire Collective" label="Vestiaire Collective">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Charlotte Corbaz" label="Charlotte Corbaz">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Jonathan Newhouse" label="Jonathan Newhouse">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Yann-Hervé du Rusquec" label="Yann-Hervé du Rusquec">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Shalini Rao" label="Shalini Rao">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Francois-Henri Pinault" label="Francois-Henri Pinault">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Paul Degueuse" label="Paul Degueuse">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Griffin Schroeder" label="Griffin Schroeder">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Aveni" label="Aveni">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Roel Bulthuis" label="Roel Bulthuis">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Deezer (PAR: DEEZR)" label="Deezer (PAR: DEEZR)">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Telecommunications Service Providers" label="Telecommunications Service Providers">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Kayentis" target="Benoit Zilber" id="0" />
+      <edge source="Kayentis" target="Cedric Berger" id="1" />
+      <edge source="Kayentis" target="Franck Noiret" id="2" />
+      <edge source="BlaBlaCar" target="Michael Zeisser" id="3" />
+      <edge source="BlaBlaCar" target="Jonas Nordlander" id="4" />
+      <edge source="Vestiaire Collective" target="Charlotte Corbaz" id="5" />
+      <edge source="Vestiaire Collective" target="Jonathan Newhouse" id="6" />
+      <edge source="Vestiaire Collective" target="Yann-Hervé du Rusquec" id="7" />
+      <edge source="Vestiaire Collective" target="Shalini Rao" id="8" />
+      <edge source="Vestiaire Collective" target="Francois-Henri Pinault" id="9" />
+      <edge source="Vestiaire Collective" target="Paul Degueuse" id="10" />
+      <edge source="Vestiaire Collective" target="Griffin Schroeder" id="11" />
+      <edge source="Aveni" target="Roel Bulthuis" id="12" />
+      <edge source="Deezer (PAR: DEEZR)" target="Telecommunications Service Providers" id="13" />
+    </edges>
+  </graph>
+</gexf>

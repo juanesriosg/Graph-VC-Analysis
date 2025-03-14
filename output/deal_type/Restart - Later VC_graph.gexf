@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-03-01">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Jay &amp; Joy" label="Jay &amp; Joy">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Bertrand Altmayer" label="Bertrand Altmayer">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Cédric Meston" label="Cédric Meston">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Guillaume Dubois" label="Guillaume Dubois">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Jean-Baptiste Rudelle" label="Jean-Baptiste Rudelle">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Pierre-Emmanuel Bercegeay" label="Pierre-Emmanuel Bercegeay">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Jay &amp; Joy" target="Bertrand Altmayer" id="0" />
+      <edge source="Jay &amp; Joy" target="Cédric Meston" id="1" />
+      <edge source="Jay &amp; Joy" target="Guillaume Dubois" id="2" />
+      <edge source="Jay &amp; Joy" target="Jean-Baptiste Rudelle" id="3" />
+      <edge source="Jay &amp; Joy" target="Pierre-Emmanuel Bercegeay" id="4" />
+    </edges>
+  </graph>
+</gexf>

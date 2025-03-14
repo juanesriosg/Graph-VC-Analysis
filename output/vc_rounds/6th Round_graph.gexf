@@ -1,0 +1,1245 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-03-01">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Alice &amp; Bob" label="Alice &amp; Bob">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="François Robinet" label="François Robinet">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="François Charbonnier" label="François Charbonnier">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Maximilien Bacot" label="Maximilien Bacot">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Anne-Sophie Carrese" label="Anne-Sophie Carrese">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Antoine Emmanuelli" label="Antoine Emmanuelli">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Etienne Moreau" label="Etienne Moreau">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Coave Therapeutics" label="Coave Therapeutics">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Jean-Francois Morin" label="Jean-Francois Morin">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Thierry Laugel" label="Thierry Laugel">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Emmanuelle Coutanceau" label="Emmanuelle Coutanceau">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Bruno Montanari" label="Bruno Montanari">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="AQEMIA" label="AQEMIA">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Laurent Higueret" label="Laurent Higueret">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Victoire Laurenty" label="Victoire Laurenty">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Akur8" label="Akur8">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Humbert de Liedekerke" label="Humbert de Liedekerke">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Pierre Curis" label="Pierre Curis">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Weenat" label="Weenat">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Stephane Roussel" label="Stephane Roussel">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Pigment (Business/Productivity Software)" label="Pigment (Business/Productivity Software)">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Matthew Jacobson" label="Matthew Jacobson">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Ajay Vashee" label="Ajay Vashee">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Pennylane" label="Pennylane">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Thomas Stafford" label="Thomas Stafford">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Luciana Lixandru" label="Luciana Lixandru">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Velco" label="Velco">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Philippe Jusserand" label="Philippe Jusserand">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Herve Bachelot Lallier" label="Herve Bachelot Lallier">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Sarah Kawa" label="Sarah Kawa">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="BioSerenity" label="BioSerenity">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Jean Schmitt" label="Jean Schmitt">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Symbio (Alternative Energy Equipment)" label="Symbio (Alternative Energy Equipment)">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Carlos Tavares" label="Carlos Tavares">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="DataGalaxy" label="DataGalaxy">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Baris Aksoy" label="Baris Aksoy">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Ledger" label="Ledger">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Daniel Tapiero" label="Daniel Tapiero">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Jacobo Abitbol" label="Jacobo Abitbol">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Timothy Draper" label="Timothy Draper">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Matthias Turck" label="Matthias Turck">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Gary Vaynerchuk" label="Gary Vaynerchuk">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Fleur Pellerin" label="Fleur Pellerin">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Peter Chapman" label="Peter Chapman">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Scott Galloway" label="Scott Galloway">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="October" label="October">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Investment Company" label="Investment Company">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Pasqal" label="Pasqal">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Joséphine Marie" label="Joséphine Marie">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Christophe Jurczak" label="Christophe Jurczak">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Maynard Kang" label="Maynard Kang">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Brigad" label="Brigad">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Raphael Labbe" label="Raphael Labbe">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Le Collectionist" label="Le Collectionist">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Fabrice Grinda" label="Fabrice Grinda">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Irena Goldenberg" label="Irena Goldenberg">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Nathalie Roy" label="Nathalie Roy">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Alban Greget" label="Alban Greget">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Xavier Romatet" label="Xavier Romatet">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="InnovaFeed" label="InnovaFeed">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Florent Thomann" label="Florent Thomann">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Sorare" label="Sorare">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Blake Griffin" label="Blake Griffin">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Kylian Mbappe" label="Kylian Mbappe">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Lionel Messi" label="Lionel Messi">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Rudy Gobert-Bourgarel" label="Rudy Gobert-Bourgarel">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Zinedine Zidane" label="Zinedine Zidane">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Hunteed" label="Hunteed">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Isabelle Weill" label="Isabelle Weill">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="nfinite" label="nfinite">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Rebecca Liu-Doyle" label="Rebecca Liu-Doyle">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Dafina Toncheva" label="Dafina Toncheva">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Domain Therapeutics" label="Domain Therapeutics">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Roberto Ponti" label="Roberto Ponti">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Laurence Rulleau" label="Laurence Rulleau">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="James Huang" label="James Huang">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Emmanuel Fiessinger" label="Emmanuel Fiessinger">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Alan" label="Alan">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Philippe Laffont" label="Philippe Laffont">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Jan Hammer" label="Jan Hammer">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Ara Yeromian" label="Ara Yeromian">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Akeneo" label="Akeneo">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Reza Malekzadeh" label="Reza Malekzadeh">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Steffan Peyer" label="Steffan Peyer">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Kyotherm" label="Kyotherm">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Guy Auger" label="Guy Auger">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Eric Bruguiere" label="Eric Bruguiere">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Arnaud Delattre" label="Arnaud Delattre">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Back Market" label="Back Market">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Shalini Rao" label="Shalini Rao">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Henrik Persson" label="Henrik Persson">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="PayFit" label="PayFit">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Philippe Botteri" label="Philippe Botteri">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Christopher Caulkin" label="Christopher Caulkin">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Newheat" label="Newheat">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Sami Ben Jamaa" label="Sami Ben Jamaa">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Primo1D" label="Primo1D">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Nicolas Boulay" label="Nicolas Boulay">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Hivebrite" label="Hivebrite">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Edward Filippi" label="Edward Filippi">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="CleverConnect" label="CleverConnect">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Pierre-Olivier Barennes" label="Pierre-Olivier Barennes">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Patrice Hutin" label="Patrice Hutin">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Julian Mattes" label="Julian Mattes">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Swile" label="Swile">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Jonathan Userovici" label="Jonathan Userovici">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Martin Mignot" label="Martin Mignot">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Maria Tereza Peixoto de Azevedo" label="Maria Tereza Peixoto de Azevedo">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Allurion Technologies (NYS: ALUR)" label="Allurion Technologies (NYS: ALUR)">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Farah Ali" label="Farah Ali">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Jason Wallace" label="Jason Wallace">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Jose Almeida" label="Jose Almeida">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Laura Fingal-Surma" label="Laura Fingal-Surma">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Marek Paris" label="Marek Paris">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Matthew Schwab" label="Matthew Schwab">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Michael Jarmuz" label="Michael Jarmuz">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Michael Nicoletti" label="Michael Nicoletti">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Miles Jennings" label="Miles Jennings">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Neil Chheda" label="Neil Chheda">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Krishna Gupta" label="Krishna Gupta">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Prophesee" label="Prophesee">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Eileen Tanghal" label="Eileen Tanghal">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Kai-Fu Lee" label="Kai-Fu Lee">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Metron" label="Metron">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Sebastien Renaud" label="Sebastien Renaud">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Gabriele Dini" label="Gabriele Dini">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Stefan Hülsen" label="Stefan Hülsen">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="ManoMano" label="ManoMano">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Gabriel Caillaux" label="Gabriel Caillaux">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="ContentSquare" label="ContentSquare">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Nathalie Niederhaeusern" label="Nathalie Niederhaeusern">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Yann-Hervé du Rusquec" label="Yann-Hervé du Rusquec">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Anthony Zappalà" label="Anthony Zappalà">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Michel Combes" label="Michel Combes">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Ynsect" label="Ynsect">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Hans Wackwitz" label="Hans Wackwitz">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Jean-Paul Lemonnier" label="Jean-Paul Lemonnier">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="SESAMm" label="SESAMm">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Omar Barakat" label="Omar Barakat">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Lior Derhy" label="Lior Derhy">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Matt Anderson" label="Matt Anderson">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="VuLog" label="VuLog">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Gilles Schang" label="Gilles Schang">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Fabrice Bienfait" label="Fabrice Bienfait">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Michael Reid" label="Michael Reid">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Ivo Nemejc" label="Ivo Nemejc">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Moonshot Insurance" label="Moonshot Insurance">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Rohan Malhotra" label="Rohan Malhotra">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Saagie" label="Saagie">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Emmanuelle Saudeau" label="Emmanuelle Saudeau">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Guillaume Dhee" label="Guillaume Dhee">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Jonathan Sabban" label="Jonathan Sabban">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Roland Le Roux" label="Roland Le Roux">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="David Manjarres" label="David Manjarres">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="MWM" label="MWM">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Alexandre Mars" label="Alexandre Mars">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Mailys Ferrere" label="Mailys Ferrere">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Daniel Marhely" label="Daniel Marhely">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Thomas Dadashi" label="Thomas Dadashi">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Chloé Giard" label="Chloé Giard">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Krishna Visvanathan" label="Krishna Visvanathan">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Xavier Niel" label="Xavier Niel">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Neteven" label="Neteven">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Kjartan Rist" label="Kjartan Rist">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Krono-Safe" label="Krono-Safe">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="David Paja" label="David Paja">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Clement Combal" label="Clement Combal">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Florent Illat" label="Florent Illat">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Devialet" label="Devialet">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Bernard Arnault" label="Bernard Arnault">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Jean-Francois Baril" label="Jean-Francois Baril">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Jacques-Antoine Granjon" label="Jacques-Antoine Granjon">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Marc Simoncini" label="Marc Simoncini">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Cailabs" label="Cailabs">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Nicolas Berdou" label="Nicolas Berdou">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Frederic Humbert" label="Frederic Humbert">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="PathoQuest" label="PathoQuest">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Doctolib" label="Doctolib">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Graftys" label="Graftys">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Frederic Convent" label="Frederic Convent">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="TalentSoft" label="TalentSoft">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Adam Shepherd" label="Adam Shepherd">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="BlaBlaCar" label="BlaBlaCar">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Dominique Vidal" label="Dominique Vidal">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Jeffrey Horing" label="Jeffrey Horing">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Guillaume Pepy" label="Guillaume Pepy">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Kalray (PAR: ALKAL)" label="Kalray (PAR: ALKAL)">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Matthieu de Chanville" label="Matthieu de Chanville">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Nicolas Dufourcq" label="Nicolas Dufourcq">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Régis Saleur" label="Régis Saleur">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Jacques Dancer" label="Jacques Dancer">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Thierry Letailleur" label="Thierry Letailleur">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Voluntis" label="Voluntis">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Tanja Dowe" label="Tanja Dowe">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Sellsy" label="Sellsy">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Younited Financial" label="Younited Financial">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Jean Bertin" label="Jean Bertin">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Elina Berrebi" label="Elina Berrebi">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Vestiaire Collective" label="Vestiaire Collective">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Matthieu Baret" label="Matthieu Baret">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Kayentis" label="Kayentis">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Arnaud Houette" label="Arnaud Houette">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Franck Noiret" label="Franck Noiret">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Expway" label="Expway">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Valéry Huot" label="Valéry Huot">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Francoise Lohezic" label="Francoise Lohezic">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Sunpartner Technologies" label="Sunpartner Technologies">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Denis Pettiaux" label="Denis Pettiaux">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="E-Blink" label="E-Blink">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Francois Tison" label="Francois Tison">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Xavier Deleplace" label="Xavier Deleplace">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Pascal Vanluchene" label="Pascal Vanluchene">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Nicolas Landrin" label="Nicolas Landrin">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Alice &amp; Bob" target="François Robinet" id="0" />
+      <edge source="Alice &amp; Bob" target="François Charbonnier" id="1" />
+      <edge source="Alice &amp; Bob" target="Maximilien Bacot" id="2" />
+      <edge source="Alice &amp; Bob" target="Anne-Sophie Carrese" id="3" />
+      <edge source="Alice &amp; Bob" target="Antoine Emmanuelli" id="4" />
+      <edge source="Alice &amp; Bob" target="Etienne Moreau" id="5" />
+      <edge source="Coave Therapeutics" target="Jean-Francois Morin" id="6" />
+      <edge source="Coave Therapeutics" target="Thierry Laugel" id="7" />
+      <edge source="Coave Therapeutics" target="Emmanuelle Coutanceau" id="8" />
+      <edge source="Coave Therapeutics" target="Bruno Montanari" id="9" />
+      <edge source="Thierry Laugel" target="PathoQuest" id="10" />
+      <edge source="AQEMIA" target="Laurent Higueret" id="11" />
+      <edge source="AQEMIA" target="Victoire Laurenty" id="12" />
+      <edge source="Akur8" target="Humbert de Liedekerke" id="13" />
+      <edge source="Akur8" target="Pierre Curis" id="14" />
+      <edge source="Weenat" target="Stephane Roussel" id="15" />
+      <edge source="Pigment (Business/Productivity Software)" target="Matthew Jacobson" id="16" />
+      <edge source="Pigment (Business/Productivity Software)" target="Ajay Vashee" id="17" />
+      <edge source="Pennylane" target="Thomas Stafford" id="18" />
+      <edge source="Pennylane" target="Luciana Lixandru" id="19" />
+      <edge source="Velco" target="Philippe Jusserand" id="20" />
+      <edge source="Velco" target="Herve Bachelot Lallier" id="21" />
+      <edge source="Velco" target="Sarah Kawa" id="22" />
+      <edge source="BioSerenity" target="Jean Schmitt" id="23" />
+      <edge source="Symbio (Alternative Energy Equipment)" target="Carlos Tavares" id="24" />
+      <edge source="DataGalaxy" target="Baris Aksoy" id="25" />
+      <edge source="Ledger" target="Daniel Tapiero" id="26" />
+      <edge source="Ledger" target="Jacobo Abitbol" id="27" />
+      <edge source="Ledger" target="Timothy Draper" id="28" />
+      <edge source="Ledger" target="Matthias Turck" id="29" />
+      <edge source="Ledger" target="Gary Vaynerchuk" id="30" />
+      <edge source="Ledger" target="Fleur Pellerin" id="31" />
+      <edge source="Ledger" target="Peter Chapman" id="32" />
+      <edge source="Ledger" target="Scott Galloway" id="33" />
+      <edge source="Fleur Pellerin" target="Devialet" id="34" />
+      <edge source="October" target="Investment Company" id="35" />
+      <edge source="Pasqal" target="Joséphine Marie" id="36" />
+      <edge source="Pasqal" target="Christophe Jurczak" id="37" />
+      <edge source="Pasqal" target="Maynard Kang" id="38" />
+      <edge source="Brigad" target="Raphael Labbe" id="39" />
+      <edge source="Le Collectionist" target="Fabrice Grinda" id="40" />
+      <edge source="Le Collectionist" target="Irena Goldenberg" id="41" />
+      <edge source="Le Collectionist" target="Nathalie Roy" id="42" />
+      <edge source="Le Collectionist" target="Alban Greget" id="43" />
+      <edge source="Le Collectionist" target="Xavier Romatet" id="44" />
+      <edge source="InnovaFeed" target="Florent Thomann" id="45" />
+      <edge source="Sorare" target="Blake Griffin" id="46" />
+      <edge source="Sorare" target="Kylian Mbappe" id="47" />
+      <edge source="Sorare" target="Lionel Messi" id="48" />
+      <edge source="Sorare" target="Rudy Gobert-Bourgarel" id="49" />
+      <edge source="Sorare" target="Zinedine Zidane" id="50" />
+      <edge source="Hunteed" target="Isabelle Weill" id="51" />
+      <edge source="nfinite" target="Rebecca Liu-Doyle" id="52" />
+      <edge source="nfinite" target="Dafina Toncheva" id="53" />
+      <edge source="Domain Therapeutics" target="Roberto Ponti" id="54" />
+      <edge source="Domain Therapeutics" target="Laurence Rulleau" id="55" />
+      <edge source="Domain Therapeutics" target="James Huang" id="56" />
+      <edge source="Domain Therapeutics" target="Emmanuel Fiessinger" id="57" />
+      <edge source="Alan" target="Philippe Laffont" id="58" />
+      <edge source="Alan" target="Jan Hammer" id="59" />
+      <edge source="Alan" target="Ara Yeromian" id="60" />
+      <edge source="Akeneo" target="Reza Malekzadeh" id="61" />
+      <edge source="Akeneo" target="Steffan Peyer" id="62" />
+      <edge source="Kyotherm" target="Guy Auger" id="63" />
+      <edge source="Kyotherm" target="Eric Bruguiere" id="64" />
+      <edge source="Kyotherm" target="Arnaud Delattre" id="65" />
+      <edge source="Back Market" target="Shalini Rao" id="66" />
+      <edge source="Back Market" target="Henrik Persson" id="67" />
+      <edge source="PayFit" target="Philippe Botteri" id="68" />
+      <edge source="PayFit" target="Christopher Caulkin" id="69" />
+      <edge source="Philippe Botteri" target="Doctolib" id="70" />
+      <edge source="Philippe Botteri" target="BlaBlaCar" id="71" />
+      <edge source="Christopher Caulkin" target="Doctolib" id="72" />
+      <edge source="Newheat" target="Sami Ben Jamaa" id="73" />
+      <edge source="Primo1D" target="Nicolas Boulay" id="74" />
+      <edge source="Nicolas Boulay" target="Expway" id="75" />
+      <edge source="Hivebrite" target="Edward Filippi" id="76" />
+      <edge source="CleverConnect" target="Pierre-Olivier Barennes" id="77" />
+      <edge source="CleverConnect" target="Patrice Hutin" id="78" />
+      <edge source="CleverConnect" target="Julian Mattes" id="79" />
+      <edge source="Patrice Hutin" target="Sellsy" id="80" />
+      <edge source="Swile" target="Jonathan Userovici" id="81" />
+      <edge source="Swile" target="Martin Mignot" id="82" />
+      <edge source="Swile" target="Maria Tereza Peixoto de Azevedo" id="83" />
+      <edge source="Allurion Technologies (NYS: ALUR)" target="Farah Ali" id="84" />
+      <edge source="Allurion Technologies (NYS: ALUR)" target="Jason Wallace" id="85" />
+      <edge source="Allurion Technologies (NYS: ALUR)" target="Jose Almeida" id="86" />
+      <edge source="Allurion Technologies (NYS: ALUR)" target="Laura Fingal-Surma" id="87" />
+      <edge source="Allurion Technologies (NYS: ALUR)" target="Marek Paris" id="88" />
+      <edge source="Allurion Technologies (NYS: ALUR)" target="Matthew Schwab" id="89" />
+      <edge source="Allurion Technologies (NYS: ALUR)" target="Michael Jarmuz" id="90" />
+      <edge source="Allurion Technologies (NYS: ALUR)" target="Michael Nicoletti" id="91" />
+      <edge source="Allurion Technologies (NYS: ALUR)" target="Miles Jennings" id="92" />
+      <edge source="Allurion Technologies (NYS: ALUR)" target="Neil Chheda" id="93" />
+      <edge source="Allurion Technologies (NYS: ALUR)" target="Krishna Gupta" id="94" />
+      <edge source="Prophesee" target="Eileen Tanghal" id="95" />
+      <edge source="Prophesee" target="Kai-Fu Lee" id="96" />
+      <edge source="Metron" target="Sebastien Renaud" id="97" />
+      <edge source="Metron" target="Gabriele Dini" id="98" />
+      <edge source="Metron" target="Stefan Hülsen" id="99" />
+      <edge source="ManoMano" target="Gabriel Caillaux" id="100" />
+      <edge source="ContentSquare" target="Nathalie Niederhaeusern" id="101" />
+      <edge source="ContentSquare" target="Yann-Hervé du Rusquec" id="102" />
+      <edge source="ContentSquare" target="Anthony Zappalà" id="103" />
+      <edge source="ContentSquare" target="Michel Combes" id="104" />
+      <edge source="Yann-Hervé du Rusquec" target="Vestiaire Collective" id="105" />
+      <edge source="Ynsect" target="Hans Wackwitz" id="106" />
+      <edge source="Ynsect" target="Jean-Paul Lemonnier" id="107" />
+      <edge source="SESAMm" target="Omar Barakat" id="108" />
+      <edge source="SESAMm" target="Lior Derhy" id="109" />
+      <edge source="SESAMm" target="Matt Anderson" id="110" />
+      <edge source="VuLog" target="Gilles Schang" id="111" />
+      <edge source="VuLog" target="Fabrice Bienfait" id="112" />
+      <edge source="VuLog" target="Michael Reid" id="113" />
+      <edge source="VuLog" target="Ivo Nemejc" id="114" />
+      <edge source="Moonshot Insurance" target="Rohan Malhotra" id="115" />
+      <edge source="Saagie" target="Emmanuelle Saudeau" id="116" />
+      <edge source="Saagie" target="Guillaume Dhee" id="117" />
+      <edge source="Saagie" target="Jonathan Sabban" id="118" />
+      <edge source="Saagie" target="Roland Le Roux" id="119" />
+      <edge source="Saagie" target="David Manjarres" id="120" />
+      <edge source="David Manjarres" target="E-Blink" id="121" />
+      <edge source="MWM" target="Alexandre Mars" id="122" />
+      <edge source="MWM" target="Mailys Ferrere" id="123" />
+      <edge source="MWM" target="Daniel Marhely" id="124" />
+      <edge source="MWM" target="Thomas Dadashi" id="125" />
+      <edge source="MWM" target="Chloé Giard" id="126" />
+      <edge source="MWM" target="Krishna Visvanathan" id="127" />
+      <edge source="MWM" target="Xavier Niel" id="128" />
+      <edge source="Xavier Niel" target="Devialet" id="129" />
+      <edge source="Neteven" target="Kjartan Rist" id="130" />
+      <edge source="Krono-Safe" target="David Paja" id="131" />
+      <edge source="Krono-Safe" target="Clement Combal" id="132" />
+      <edge source="Krono-Safe" target="Florent Illat" id="133" />
+      <edge source="Florent Illat" target="Cailabs" id="134" />
+      <edge source="Florent Illat" target="Kalray (PAR: ALKAL)" id="135" />
+      <edge source="Devialet" target="Bernard Arnault" id="136" />
+      <edge source="Devialet" target="Jean-Francois Baril" id="137" />
+      <edge source="Devialet" target="Jacques-Antoine Granjon" id="138" />
+      <edge source="Devialet" target="Marc Simoncini" id="139" />
+      <edge source="Cailabs" target="Nicolas Berdou" id="140" />
+      <edge source="Cailabs" target="Frederic Humbert" id="141" />
+      <edge source="Graftys" target="Frederic Convent" id="142" />
+      <edge source="TalentSoft" target="Adam Shepherd" id="143" />
+      <edge source="BlaBlaCar" target="Dominique Vidal" id="144" />
+      <edge source="BlaBlaCar" target="Jeffrey Horing" id="145" />
+      <edge source="BlaBlaCar" target="Guillaume Pepy" id="146" />
+      <edge source="Kalray (PAR: ALKAL)" target="Matthieu de Chanville" id="147" />
+      <edge source="Kalray (PAR: ALKAL)" target="Nicolas Dufourcq" id="148" />
+      <edge source="Kalray (PAR: ALKAL)" target="Régis Saleur" id="149" />
+      <edge source="Kalray (PAR: ALKAL)" target="Jacques Dancer" id="150" />
+      <edge source="Kalray (PAR: ALKAL)" target="Thierry Letailleur" id="151" />
+      <edge source="Voluntis" target="Tanja Dowe" id="152" />
+      <edge source="Younited Financial" target="Jean Bertin" id="153" />
+      <edge source="Younited Financial" target="Elina Berrebi" id="154" />
+      <edge source="Vestiaire Collective" target="Matthieu Baret" id="155" />
+      <edge source="Kayentis" target="Arnaud Houette" id="156" />
+      <edge source="Kayentis" target="Franck Noiret" id="157" />
+      <edge source="Expway" target="Valéry Huot" id="158" />
+      <edge source="Expway" target="Francoise Lohezic" id="159" />
+      <edge source="Sunpartner Technologies" target="Denis Pettiaux" id="160" />
+      <edge source="E-Blink" target="Francois Tison" id="161" />
+      <edge source="E-Blink" target="Xavier Deleplace" id="162" />
+      <edge source="E-Blink" target="Pascal Vanluchene" id="163" />
+      <edge source="E-Blink" target="Nicolas Landrin" id="164" />
+    </edges>
+  </graph>
+</gexf>

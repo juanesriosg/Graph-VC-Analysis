@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-03-01">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Devialet" label="Devialet">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Fleur Pellerin" label="Fleur Pellerin">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Metron" label="Metron">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Hideaki Yajima" label="Hideaki Yajima">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Aledia" label="Aledia">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Laurent Arthaud" label="Laurent Arthaud">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Donald Tappan" label="Donald Tappan">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Axoltis Pharma" label="Axoltis Pharma">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Francois Miceli" label="Francois Miceli">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Welcome to the Jungle" label="Welcome to the Jungle">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Joséphine Marie" label="Joséphine Marie">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Roland Dennert" label="Roland Dennert">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Elina Berrebi" label="Elina Berrebi">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Guillaume Meulle" label="Guillaume Meulle">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Enterome" label="Enterome">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Hans-Juergen Woerle" label="Hans-Juergen Woerle">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="LimFlow" label="LimFlow">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Jocelyn Kum" label="Jocelyn Kum">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Maxwell Bikoff" label="Maxwell Bikoff">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="PathoQuest" label="PathoQuest">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Jean-Pascal Beaufret" label="Jean-Pascal Beaufret">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Thierry Laugel" label="Thierry Laugel">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Sascha Alilovic" label="Sascha Alilovic">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Kayentis" label="Kayentis">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Benoit Zilber" label="Benoit Zilber">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Cedric Berger" label="Cedric Berger">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Franck Noiret" label="Franck Noiret">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Vestiaire Collective" label="Vestiaire Collective">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Deezer (PAR: DEEZR)" label="Deezer (PAR: DEEZR)">
+        <attvalues>
+          <attvalue for="0" value="company" />
+        </attvalues>
+      </node>
+      <node id="Telecommunications Service Providers" label="Telecommunications Service Providers">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Xavier Niel" label="Xavier Niel">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Devialet" target="Fleur Pellerin" id="0" />
+      <edge source="Fleur Pellerin" target="Vestiaire Collective" id="1" />
+      <edge source="Metron" target="Hideaki Yajima" id="2" />
+      <edge source="Aledia" target="Laurent Arthaud" id="3" />
+      <edge source="Aledia" target="Donald Tappan" id="4" />
+      <edge source="Axoltis Pharma" target="Francois Miceli" id="5" />
+      <edge source="Welcome to the Jungle" target="Joséphine Marie" id="6" />
+      <edge source="Welcome to the Jungle" target="Roland Dennert" id="7" />
+      <edge source="Welcome to the Jungle" target="Elina Berrebi" id="8" />
+      <edge source="Welcome to the Jungle" target="Guillaume Meulle" id="9" />
+      <edge source="Enterome" target="Hans-Juergen Woerle" id="10" />
+      <edge source="LimFlow" target="Jocelyn Kum" id="11" />
+      <edge source="LimFlow" target="Maxwell Bikoff" id="12" />
+      <edge source="PathoQuest" target="Jean-Pascal Beaufret" id="13" />
+      <edge source="PathoQuest" target="Thierry Laugel" id="14" />
+      <edge source="PathoQuest" target="Sascha Alilovic" id="15" />
+      <edge source="Kayentis" target="Benoit Zilber" id="16" />
+      <edge source="Kayentis" target="Cedric Berger" id="17" />
+      <edge source="Kayentis" target="Franck Noiret" id="18" />
+      <edge source="Deezer (PAR: DEEZR)" target="Telecommunications Service Providers" id="19" />
+      <edge source="Deezer (PAR: DEEZR)" target="Xavier Niel" id="20" />
+    </edges>
+  </graph>
+</gexf>
