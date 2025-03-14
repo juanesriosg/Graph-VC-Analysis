@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-03-14">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Amaury Sepulchre" label="Amaury Sepulchre">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Bruno Raillard" label="Bruno Raillard">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Nicolas Debock" label="Nicolas Debock">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Pierre Entremont" label="Pierre Entremont">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Romain Cottard" label="Romain Cottard">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Xavier Niel" label="Xavier Niel">
+        <attvalues>
+          <attvalue for="0" value="investor" />
+        </attvalues>
+      </node>
+      <node id="Laurent Higueret" label="Laurent Higueret" />
+      <node id="Alban de La Sablière" label="Alban de La Sablière" />
+      <node id="Edward Kliphuis" label="Edward Kliphuis" />
+      <node id="Anthony Fadell" label="Anthony Fadell" />
+      <node id="Jacobo Abitbol" label="Jacobo Abitbol" />
+      <node id="Rachel Delacour" label="Rachel Delacour" />
+      <node id="Rodolphe Saadé" label="Rodolphe Saadé" />
+      <node id="Antoine Arnault" label="Antoine Arnault" />
+      <node id="Adrien Nussenbaum" label="Adrien Nussenbaum" />
+      <node id="Raphaël Vullierme" label="Raphaël Vullierme" />
+      <node id="Marie Ekeland" label="Marie Ekeland" />
+      <node id="Bernard Liautaud" label="Bernard Liautaud" />
+      <node id="Philippe Laffont" label="Philippe Laffont" />
+      <node id="François Robinet" label="François Robinet" />
+      <node id="Victoire Millerand" label="Victoire Millerand" />
+      <node id="Antoine Freysz" label="Antoine Freysz" />
+      <node id="Pascal Casanova" label="Pascal Casanova" />
+      <node id="Pierre Kosciusko Morizet" label="Pierre Kosciusko Morizet" />
+      <node id="Alexander Chesterman" label="Alexander Chesterman" />
+      <node id="Edward Lando" label="Edward Lando" />
+      <node id="Fred Fateh" label="Fred Fateh" />
+      <node id="Shana Fisher" label="Shana Fisher" />
+      <node id="Sri Batchu" label="Sri Batchu" />
+      <node id="Fred Destin" label="Fred Destin" />
+      <node id="Yacine Ghalim" label="Yacine Ghalim" />
+    </nodes>
+    <edges>
+      <edge source="Amaury Sepulchre" target="Bruno Raillard" id="0" weight="1" />
+      <edge source="Amaury Sepulchre" target="Nicolas Debock" id="1" weight="1" />
+      <edge source="Amaury Sepulchre" target="Pierre Entremont" id="2" weight="1" />
+      <edge source="Amaury Sepulchre" target="Romain Cottard" id="3" weight="1" />
+      <edge source="Amaury Sepulchre" target="Xavier Niel" id="4" weight="1" />
+      <edge source="Bruno Raillard" target="Nicolas Debock" id="5" weight="1" />
+      <edge source="Bruno Raillard" target="Pierre Entremont" id="6" weight="1" />
+      <edge source="Bruno Raillard" target="Romain Cottard" id="7" weight="1" />
+      <edge source="Bruno Raillard" target="Xavier Niel" id="8" weight="1" />
+      <edge source="Nicolas Debock" target="Pierre Entremont" id="9" weight="1" />
+      <edge source="Nicolas Debock" target="Romain Cottard" id="10" weight="1" />
+      <edge source="Nicolas Debock" target="Xavier Niel" id="11" weight="1" />
+      <edge source="Pierre Entremont" target="Romain Cottard" id="12" weight="1" />
+      <edge source="Pierre Entremont" target="Xavier Niel" id="13" weight="1" />
+      <edge source="Romain Cottard" target="Xavier Niel" id="14" weight="1" />
+      <edge source="Xavier Niel" target="Laurent Higueret" id="15" weight="1" />
+      <edge source="Xavier Niel" target="Alban de La Sablière" id="16" weight="1" />
+      <edge source="Xavier Niel" target="Edward Kliphuis" id="17" weight="1" />
+      <edge source="Xavier Niel" target="Anthony Fadell" id="18" weight="1" />
+      <edge source="Xavier Niel" target="Jacobo Abitbol" id="19" weight="1" />
+      <edge source="Xavier Niel" target="Rachel Delacour" id="20" weight="1" />
+      <edge source="Xavier Niel" target="Rodolphe Saadé" id="21" weight="101" />
+      <edge source="Xavier Niel" target="Antoine Arnault" id="22" weight="1" />
+      <edge source="Xavier Niel" target="Adrien Nussenbaum" id="23" weight="1" />
+      <edge source="Xavier Niel" target="Raphaël Vullierme" id="24" weight="1" />
+      <edge source="Xavier Niel" target="Marie Ekeland" id="25" weight="1" />
+      <edge source="Xavier Niel" target="Bernard Liautaud" id="26" weight="1" />
+      <edge source="Xavier Niel" target="Philippe Laffont" id="27" weight="1" />
+      <edge source="Xavier Niel" target="François Robinet" id="28" weight="1" />
+      <edge source="Xavier Niel" target="Victoire Millerand" id="29" weight="1" />
+      <edge source="Xavier Niel" target="Antoine Freysz" id="30" weight="1" />
+      <edge source="Xavier Niel" target="Pascal Casanova" id="31" weight="1" />
+      <edge source="Xavier Niel" target="Pierre Kosciusko Morizet" id="32" weight="1" />
+      <edge source="Xavier Niel" target="Alexander Chesterman" id="33" weight="1" />
+      <edge source="Xavier Niel" target="Edward Lando" id="34" weight="1" />
+      <edge source="Xavier Niel" target="Fred Fateh" id="35" weight="1" />
+      <edge source="Xavier Niel" target="Shana Fisher" id="36" weight="1" />
+      <edge source="Xavier Niel" target="Sri Batchu" id="37" weight="1" />
+      <edge source="Xavier Niel" target="Fred Destin" id="38" weight="1" />
+      <edge source="Xavier Niel" target="Yacine Ghalim" id="39" weight="1" />
+      <edge source="Laurent Higueret" target="Alban de La Sablière" id="40" weight="1" />
+      <edge source="Laurent Higueret" target="Edward Kliphuis" id="41" weight="1" />
+      <edge source="Alban de La Sablière" target="Edward Kliphuis" id="42" weight="1" />
+      <edge source="Anthony Fadell" target="Jacobo Abitbol" id="43" weight="1" />
+      <edge source="Anthony Fadell" target="Rachel Delacour" id="44" weight="1" />
+      <edge source="Anthony Fadell" target="Rodolphe Saadé" id="45" weight="1" />
+      <edge source="Jacobo Abitbol" target="Rachel Delacour" id="46" weight="1" />
+      <edge source="Jacobo Abitbol" target="Rodolphe Saadé" id="47" weight="1" />
+      <edge source="Rachel Delacour" target="Rodolphe Saadé" id="48" weight="1" />
+      <edge source="Adrien Nussenbaum" target="Raphaël Vullierme" id="49" weight="1" />
+      <edge source="Marie Ekeland" target="Bernard Liautaud" id="50" weight="1" />
+      <edge source="Marie Ekeland" target="Philippe Laffont" id="51" weight="1" />
+      <edge source="Bernard Liautaud" target="Philippe Laffont" id="52" weight="1" />
+      <edge source="François Robinet" target="Victoire Millerand" id="53" weight="1" />
+      <edge source="François Robinet" target="Antoine Freysz" id="54" weight="1" />
+      <edge source="François Robinet" target="Pascal Casanova" id="55" weight="1" />
+      <edge source="François Robinet" target="Pierre Kosciusko Morizet" id="56" weight="1" />
+      <edge source="Victoire Millerand" target="Antoine Freysz" id="57" weight="1" />
+      <edge source="Victoire Millerand" target="Pascal Casanova" id="58" weight="1" />
+      <edge source="Victoire Millerand" target="Pierre Kosciusko Morizet" id="59" weight="1" />
+      <edge source="Antoine Freysz" target="Pascal Casanova" id="60" weight="1" />
+      <edge source="Antoine Freysz" target="Pierre Kosciusko Morizet" id="61" weight="1" />
+      <edge source="Pascal Casanova" target="Pierre Kosciusko Morizet" id="62" weight="1" />
+      <edge source="Alexander Chesterman" target="Edward Lando" id="63" weight="1" />
+      <edge source="Alexander Chesterman" target="Fred Fateh" id="64" weight="1" />
+      <edge source="Alexander Chesterman" target="Shana Fisher" id="65" weight="1" />
+      <edge source="Alexander Chesterman" target="Sri Batchu" id="66" weight="1" />
+      <edge source="Alexander Chesterman" target="Fred Destin" id="67" weight="1" />
+      <edge source="Alexander Chesterman" target="Yacine Ghalim" id="68" weight="1" />
+      <edge source="Edward Lando" target="Fred Fateh" id="69" weight="1" />
+      <edge source="Edward Lando" target="Shana Fisher" id="70" weight="1" />
+      <edge source="Edward Lando" target="Sri Batchu" id="71" weight="1" />
+      <edge source="Edward Lando" target="Fred Destin" id="72" weight="1" />
+      <edge source="Edward Lando" target="Yacine Ghalim" id="73" weight="1" />
+      <edge source="Fred Fateh" target="Shana Fisher" id="74" weight="1" />
+      <edge source="Fred Fateh" target="Sri Batchu" id="75" weight="1" />
+      <edge source="Fred Fateh" target="Fred Destin" id="76" weight="1" />
+      <edge source="Fred Fateh" target="Yacine Ghalim" id="77" weight="1" />
+      <edge source="Shana Fisher" target="Sri Batchu" id="78" weight="1" />
+      <edge source="Shana Fisher" target="Fred Destin" id="79" weight="1" />
+      <edge source="Shana Fisher" target="Yacine Ghalim" id="80" weight="1" />
+      <edge source="Sri Batchu" target="Fred Destin" id="81" weight="1" />
+      <edge source="Sri Batchu" target="Yacine Ghalim" id="82" weight="1" />
+      <edge source="Fred Destin" target="Yacine Ghalim" id="83" weight="1" />
+    </edges>
+  </graph>
+</gexf>
