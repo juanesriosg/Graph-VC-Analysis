@@ -1,0 +1,281 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-03-17">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Sylvain Vidal" label="Sylvain Vidal">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Geoffroy Rosset" label="Geoffroy Rosset">
+        <attvalues>
+          <attvalue for="0" value="Corporate Venture Capital" />
+        </attvalues>
+      </node>
+      <node id="Laurent Babut" label="Laurent Babut">
+        <attvalues>
+          <attvalue for="0" value="Impact Investing" />
+        </attvalues>
+      </node>
+      <node id="Tim Romero" label="Tim Romero">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Philippe Schaus" label="Philippe Schaus">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Jean-Nicolas Baylet" label="Jean-Nicolas Baylet">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Karine Olivier" label="Karine Olivier">
+        <attvalues>
+          <attvalue for="0" value="PE-Backed Company" />
+        </attvalues>
+      </node>
+      <node id="François Larochette" label="François Larochette">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Hideaki Yajima" label="Hideaki Yajima">
+        <attvalues>
+          <attvalue for="0" value="Corporate Venture Capital" />
+        </attvalues>
+      </node>
+      <node id="Thomas Hasenöhrl" label="Thomas Hasenöhrl">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Rudy Boukhris" label="Rudy Boukhris">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Carlos Tavares" label="Carlos Tavares">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Minh Tran" label="Minh Tran">
+        <attvalues>
+          <attvalue for="0" value="Corporate Venture Capital" />
+        </attvalues>
+      </node>
+      <node id="Hubert de Boisredon" label="Hubert de Boisredon">
+        <attvalues>
+          <attvalue for="0" value="PE-Backed Company" />
+        </attvalues>
+      </node>
+      <node id="Xavier Niel" label="Xavier Niel">
+        <attvalues>
+          <attvalue for="0" value="Angel (individual)" />
+        </attvalues>
+      </node>
+      <node id="Yasuhiro Ohmura" label="Yasuhiro Ohmura">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Sven Oelert" label="Sven Oelert">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Eduardo Piedade" label="Eduardo Piedade">
+        <attvalues>
+          <attvalue for="0" value="Corporate Venture Capital" />
+        </attvalues>
+      </node>
+      <node id="Antoine Troesch" label="Antoine Troesch">
+        <attvalues>
+          <attvalue for="0" value="Sovereign Wealth Fund" />
+        </attvalues>
+      </node>
+      <node id="Hans-Juergen Woerle" label="Hans-Juergen Woerle">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="David Guyonnet" label="David Guyonnet">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Hiroshi Kakiuchi" label="Hiroshi Kakiuchi">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Hitoshi Kaguchi" label="Hitoshi Kaguchi">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Elodie Perthuisot" label="Elodie Perthuisot">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Bart de Beer" label="Bart de Beer">
+        <attvalues>
+          <attvalue for="0" value="Impact Investing" />
+        </attvalues>
+      </node>
+      <node id="Gregory Bernstein" label="Gregory Bernstein">
+        <attvalues>
+          <attvalue for="0" value="Venture Capital" />
+        </attvalues>
+      </node>
+      <node id="Patrice Lafargue" label="Patrice Lafargue">
+        <attvalues>
+          <attvalue for="0" value="Real Estate" />
+        </attvalues>
+      </node>
+      <node id="Fabrice Cuchet" label="Fabrice Cuchet">
+        <attvalues>
+          <attvalue for="0" value="Fund of Funds" />
+        </attvalues>
+      </node>
+      <node id="Rémi Cuinat" label="Rémi Cuinat">
+        <attvalues>
+          <attvalue for="0" value="Asset Manager" />
+        </attvalues>
+      </node>
+      <node id="Olivier Bogillot" label="Olivier Bogillot">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Thorsten Dreier" label="Thorsten Dreier">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Nicolas Maurin" label="Nicolas Maurin">
+        <attvalues>
+          <attvalue for="0" value="Sovereign Wealth Fund" />
+        </attvalues>
+      </node>
+      <node id="Philippe Rive" label="Philippe Rive">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Brona Magee" label="Brona Magee">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Jean-Hubert Lenotte" label="Jean-Hubert Lenotte">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Mikael Dolsten" label="Mikael Dolsten">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Greg Beattie" label="Greg Beattie">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Brett Monia" label="Brett Monia">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Hélène Falchier" label="Hélène Falchier">
+        <attvalues>
+          <attvalue for="0" value="Corporate Venture Capital" />
+        </attvalues>
+      </node>
+      <node id="Philippe Salle" label="Philippe Salle">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Arnaud Visse" label="Arnaud Visse">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Emmanuel Ladent" label="Emmanuel Ladent">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Sebastien Vidal" label="Sebastien Vidal">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Jean-Francois Hurel" label="Jean-Francois Hurel">
+        <attvalues>
+          <attvalue for="0" value="Corporate Venture Capital" />
+        </attvalues>
+      </node>
+      <node id="Frederic Rombaut" label="Frederic Rombaut">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Marcel Torrents" label="Marcel Torrents">
+        <attvalues>
+          <attvalue for="0" value="PE-Backed Company" />
+        </attvalues>
+      </node>
+      <node id="Matijas Meyer" label="Matijas Meyer">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Henri Seydoux" label="Henri Seydoux">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Philippe Sauve" label="Philippe Sauve">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Alexandre Le Vert" label="Alexandre Le Vert">
+        <attvalues>
+          <attvalue for="0" value="Family Office" />
+        </attvalues>
+      </node>
+      <node id="Yves de La Villeguerin" label="Yves de La Villeguerin">
+        <attvalues>
+          <attvalue for="0" value="Corporation" />
+        </attvalues>
+      </node>
+      <node id="Julien Ampollini" label="Julien Ampollini">
+        <attvalues>
+          <attvalue for="0" value="PE-Backed Company" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Eduardo Piedade" target="Antoine Troesch" id="0" />
+      <edge source="Bart de Beer" target="Gregory Bernstein" id="1" />
+      <edge source="Bart de Beer" target="Patrice Lafargue" id="2" />
+      <edge source="Gregory Bernstein" target="Patrice Lafargue" id="3" />
+      <edge source="Fabrice Cuchet" target="Rémi Cuinat" id="4" />
+      <edge source="Emmanuel Ladent" target="Sebastien Vidal" id="5" />
+    </edges>
+  </graph>
+</gexf>

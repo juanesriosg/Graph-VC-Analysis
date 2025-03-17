@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-03-17">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Jacques-Antoine Granjon" label="Jacques-Antoine Granjon">
+        <attvalues>
+          <attvalue for="0" value="Angel (individual)" />
+        </attvalues>
+      </node>
+      <node id="Marc Simoncini" label="Marc Simoncini">
+        <attvalues>
+          <attvalue for="0" value="Angel (individual)" />
+        </attvalues>
+      </node>
+      <node id="Thibaud Elziere" label="Thibaud Elziere">
+        <attvalues>
+          <attvalue for="0" value="Angel (individual)" />
+        </attvalues>
+      </node>
+      <node id="Xavier Niel" label="Xavier Niel">
+        <attvalues>
+          <attvalue for="0" value="Angel (individual)" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Jacques-Antoine Granjon" target="Marc Simoncini" id="0" />
+      <edge source="Jacques-Antoine Granjon" target="Thibaud Elziere" id="1" />
+      <edge source="Jacques-Antoine Granjon" target="Xavier Niel" id="2" />
+      <edge source="Marc Simoncini" target="Thibaud Elziere" id="3" />
+      <edge source="Marc Simoncini" target="Xavier Niel" id="4" />
+      <edge source="Thibaud Elziere" target="Xavier Niel" id="5" />
+    </edges>
+  </graph>
+</gexf>
