@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-03-18">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Tony Parker" label="Tony Parker">
+        <attvalues>
+          <attvalue for="0" value="Angel (individual)" />
+        </attvalues>
+      </node>
+      <node id="Cyril Guenoun" label="Cyril Guenoun">
+        <attvalues>
+          <attvalue for="0" value="Venture Capital" />
+        </attvalues>
+      </node>
+      <node id="Jean-François Cochy" label="Jean-François Cochy">
+        <attvalues>
+          <attvalue for="0" value="Venture Capital" />
+        </attvalues>
+      </node>
+      <node id="Teddy Riner" label="Teddy Riner">
+        <attvalues>
+          <attvalue for="0" value="Angel (individual)" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Tony Parker" target="Cyril Guenoun" id="0" weight="2" />
+      <edge source="Tony Parker" target="Jean-François Cochy" id="1" weight="2" />
+      <edge source="Tony Parker" target="Teddy Riner" id="2" weight="2" />
+      <edge source="Cyril Guenoun" target="Jean-François Cochy" id="3" weight="2" />
+      <edge source="Cyril Guenoun" target="Teddy Riner" id="4" weight="2" />
+      <edge source="Jean-François Cochy" target="Teddy Riner" id="5" weight="2" />
+    </edges>
+  </graph>
+</gexf>

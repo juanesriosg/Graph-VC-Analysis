@@ -1,0 +1,856 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-03-28">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="François Wohrer" label="François Wohrer">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Cyrille Cabaret" label="Cyrille Cabaret">
+        <attvalues>
+          <attvalue for="0" value="Business Products and Services (B2B)" />
+        </attvalues>
+      </node>
+      <node id="Gentiane Gorlier" label="Gentiane Gorlier">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Alicia Sorel" label="Alicia Sorel">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Chloé Schiaffino" label="Chloé Schiaffino">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Jérôme Guéret" label="Jérôme Guéret">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Jérôme Delmas" label="Jérôme Delmas">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Patrick Suel" label="Patrick Suel">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Markus Solibieda" label="Markus Solibieda">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Cédric Rolland" label="Cédric Rolland">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Riadh Shaiek" label="Riadh Shaiek">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Benjamin Wainstain" label="Benjamin Wainstain">
+        <attvalues>
+          <attvalue for="0" value="Consumer Products and Services (B2C)" />
+        </attvalues>
+      </node>
+      <node id="Kanyi Maqubela" label="Kanyi Maqubela">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Joséphine Marie" label="Joséphine Marie">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Clémentine Cazenave" label="Clémentine Cazenave">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Marius Dantl" label="Marius Dantl">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Stephane Roussel" label="Stephane Roussel">
+        <attvalues>
+          <attvalue for="0" value="Business Products and Services (B2B)" />
+        </attvalues>
+      </node>
+      <node id="Michael Krel" label="Michael Krel">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Samia Belabed" label="Samia Belabed">
+        <attvalues>
+          <attvalue for="0" value="Business Products and Services (B2B)" />
+        </attvalues>
+      </node>
+      <node id="Michael Brandkamp" label="Michael Brandkamp">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Edouard Combette" label="Edouard Combette">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Tom Greene" label="Tom Greene">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Baptiste Tellier" label="Baptiste Tellier">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Guillaume Baxter" label="Guillaume Baxter">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Anouk Veber" label="Anouk Veber">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Romain Sautrau" label="Romain Sautrau">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Lionel Artusio-Payot" label="Lionel Artusio-Payot">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Denis Lucquin" label="Denis Lucquin">
+        <attvalues>
+          <attvalue for="0" value="Business Products and Services (B2B)" />
+        </attvalues>
+      </node>
+      <node id="Jean-Michel Petit" label="Jean-Michel Petit">
+        <attvalues>
+          <attvalue for="0" value="Healthcare" />
+        </attvalues>
+      </node>
+      <node id="Florent Monier" label="Florent Monier">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Hans Marteau" label="Hans Marteau">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Cindy Ung" label="Cindy Ung">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Christopher Tritten" label="Christopher Tritten">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Hendrik Van Asbroeck" label="Hendrik Van Asbroeck">
+        <attvalues>
+          <attvalue for="0" value="Consumer Products and Services (B2C)" />
+        </attvalues>
+      </node>
+      <node id="Thierry Letailleur" label="Thierry Letailleur">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Emmanuel Audouard" label="Emmanuel Audouard">
+        <attvalues>
+          <attvalue for="0" value="Business Products and Services (B2B)" />
+        </attvalues>
+      </node>
+      <node id="Isabelle de Cremoux" label="Isabelle de Cremoux">
+        <attvalues>
+          <attvalue for="0" value="Healthcare" />
+        </attvalues>
+      </node>
+      <node id="Gabriel Giabicani" label="Gabriel Giabicani">
+        <attvalues>
+          <attvalue for="0" value="Business Products and Services (B2B)" />
+        </attvalues>
+      </node>
+      <node id="Alexandre Scherer" label="Alexandre Scherer">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Patrick Mole" label="Patrick Mole">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Marie-Anne Dupin-Vermersch" label="Marie-Anne Dupin-Vermersch">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Thomas Delasnerie" label="Thomas Delasnerie">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Mathieu Goudot" label="Mathieu Goudot">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="John Samson" label="John Samson">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Léa Zaslavsky" label="Léa Zaslavsky">
+        <attvalues>
+          <attvalue for="0" value="Consumer Products and Services (B2C)" />
+        </attvalues>
+      </node>
+      <node id="Christopher Sacca" label="Christopher Sacca">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Eric Archambeau" label="Eric Archambeau">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Robert Downey" label="Robert Downey">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Yves Sisteron" label="Yves Sisteron">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Hans Wackwitz" label="Hans Wackwitz">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Jean-Paul Lemonnier" label="Jean-Paul Lemonnier">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Yassine Soual" label="Yassine Soual">
+        <attvalues>
+          <attvalue for="0" value="Consumer Products and Services (B2C)" />
+        </attvalues>
+      </node>
+      <node id="Matthieu Vermersch" label="Matthieu Vermersch">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Benoit Deckers" label="Benoit Deckers">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Sofia Hmich" label="Sofia Hmich">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Matus Maar" label="Matus Maar">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Gilles Schang" label="Gilles Schang">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Olivier Warnan" label="Olivier Warnan">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Alain Raymond" label="Alain Raymond">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Gilles Demigneux" label="Gilles Demigneux">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Rod Mainland" label="Rod Mainland">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Carmichael Roberts" label="Carmichael Roberts">
+        <attvalues>
+          <attvalue for="0" value="Energy" />
+        </attvalues>
+      </node>
+      <node id="Dominique Gaillard" label="Dominique Gaillard">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Erik Orsenna" label="Erik Orsenna">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Patrice Bégay" label="Patrice Bégay">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Bertrand Distinguin" label="Bertrand Distinguin">
+        <attvalues>
+          <attvalue for="0" value="Healthcare" />
+        </attvalues>
+      </node>
+      <node id="Raffi Kamber" label="Raffi Kamber">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Bruno Guicheux" label="Bruno Guicheux">
+        <attvalues>
+          <attvalue for="0" value="Healthcare" />
+        </attvalues>
+      </node>
+      <node id="Jenny Rooke" label="Jenny Rooke">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Thierry Laugel" label="Thierry Laugel">
+        <attvalues>
+          <attvalue for="0" value="Healthcare" />
+        </attvalues>
+      </node>
+      <node id="Frédéric Le Guillou" label="Frédéric Le Guillou">
+        <attvalues>
+          <attvalue for="0" value="Business Products and Services (B2B)" />
+        </attvalues>
+      </node>
+      <node id="Bradley Mullen" label="Bradley Mullen">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Tim Seears" label="Tim Seears">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Zachary Gilula" label="Zachary Gilula">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Nicolas Maurin" label="Nicolas Maurin">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Nicolas Berdou" label="Nicolas Berdou">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Kevin Eggers" label="Kevin Eggers">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Erik Karlsson" label="Erik Karlsson">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Andreas Zynga" label="Andreas Zynga">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Franck Lescure" label="Franck Lescure">
+        <attvalues>
+          <attvalue for="0" value="Healthcare" />
+        </attvalues>
+      </node>
+      <node id="Louise Chopinet" label="Louise Chopinet">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Olivier Ferrari" label="Olivier Ferrari">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Thorsten Dreier" label="Thorsten Dreier">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Majdi Najah" label="Majdi Najah">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Philippe Renaudin" label="Philippe Renaudin">
+        <attvalues>
+          <attvalue for="0" value="Business Products and Services (B2B)" />
+        </attvalues>
+      </node>
+      <node id="Stephane Lefevre-Sauli" label="Stephane Lefevre-Sauli">
+        <attvalues>
+          <attvalue for="0" value="Business Products and Services (B2B)" />
+        </attvalues>
+      </node>
+      <node id="Julian Ortelli" label="Julian Ortelli">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Antoine Fine" label="Antoine Fine">
+        <attvalues>
+          <attvalue for="0" value="Consumer Products and Services (B2C)" />
+        </attvalues>
+      </node>
+      <node id="Pierre-Eric Leibovici" label="Pierre-Eric Leibovici">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Solomon Hykes" label="Solomon Hykes">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Edouard Petit" label="Edouard Petit">
+        <attvalues>
+          <attvalue for="0" value="Consumer Products and Services (B2C)" />
+        </attvalues>
+      </node>
+      <node id="Grégoire Boutin" label="Grégoire Boutin">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Henri Seydoux" label="Henri Seydoux">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Jacques-Antoine Granjon" label="Jacques-Antoine Granjon">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Oussama Ammar" label="Oussama Ammar">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Thibaud Elziere" label="Thibaud Elziere">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Willy Braun" label="Willy Braun">
+        <attvalues>
+          <attvalue for="0" value="Business Products and Services (B2B)" />
+        </attvalues>
+      </node>
+      <node id="Cyril Grislain" label="Cyril Grislain">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Jean-Daniel Guyot" label="Jean-Daniel Guyot">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Leila Nicolas" label="Leila Nicolas">
+        <attvalues>
+          <attvalue for="0" value="Healthcare" />
+        </attvalues>
+      </node>
+      <node id="Morgan Carval" label="Morgan Carval">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Emmanuel Gaude" label="Emmanuel Gaude">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Didier Rousseau" label="Didier Rousseau">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Thierry Gillier" label="Thierry Gillier">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Delphine Nicolas-Tucou" label="Delphine Nicolas-Tucou">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Jean-Philippe Bour" label="Jean-Philippe Bour">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Stéphane Zittoun" label="Stéphane Zittoun">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Alain Mallart" label="Alain Mallart">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Anne Lauvergeon" label="Anne Lauvergeon">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Edouard Louis-Dreyfus" label="Edouard Louis-Dreyfus">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Xavier Niel" label="Xavier Niel">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Yannick Naud" label="Yannick Naud">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Nizar El Hachem" label="Nizar El Hachem">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Jerome Samson" label="Jerome Samson">
+        <attvalues>
+          <attvalue for="0" value="Consumer Products and Services (B2C)" />
+        </attvalues>
+      </node>
+      <node id="Alexandre Ouimet-Storrs" label="Alexandre Ouimet-Storrs">
+        <attvalues>
+          <attvalue for="0" value="Business Products and Services (B2B)" />
+        </attvalues>
+      </node>
+      <node id="Julien Le Drogo" label="Julien Le Drogo">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Isabelle Spender" label="Isabelle Spender">
+        <attvalues>
+          <attvalue for="0" value="Business Products and Services (B2B)" />
+        </attvalues>
+      </node>
+      <node id="Laurent Hau" label="Laurent Hau">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="François Wohrer" target="Cyrille Cabaret" id="0" weight="2" />
+      <edge source="François Wohrer" target="Gentiane Gorlier" id="1" weight="2" />
+      <edge source="François Wohrer" target="Alicia Sorel" id="2" weight="2" />
+      <edge source="Cyrille Cabaret" target="Gentiane Gorlier" id="3" weight="2" />
+      <edge source="Cyrille Cabaret" target="Alicia Sorel" id="4" weight="2" />
+      <edge source="Gentiane Gorlier" target="Alicia Sorel" id="5" weight="2" />
+      <edge source="Chloé Schiaffino" target="Jérôme Guéret" id="6" weight="2" />
+      <edge source="Chloé Schiaffino" target="Jérôme Delmas" id="7" weight="2" />
+      <edge source="Chloé Schiaffino" target="Patrick Suel" id="8" weight="2" />
+      <edge source="Chloé Schiaffino" target="Markus Solibieda" id="9" weight="2" />
+      <edge source="Chloé Schiaffino" target="Cédric Rolland" id="10" weight="2" />
+      <edge source="Chloé Schiaffino" target="Riadh Shaiek" id="11" weight="2" />
+      <edge source="Chloé Schiaffino" target="Benjamin Wainstain" id="12" weight="2" />
+      <edge source="Jérôme Guéret" target="Jérôme Delmas" id="13" weight="2" />
+      <edge source="Jérôme Guéret" target="Patrick Suel" id="14" weight="2" />
+      <edge source="Jérôme Guéret" target="Markus Solibieda" id="15" weight="2" />
+      <edge source="Jérôme Guéret" target="Cédric Rolland" id="16" weight="2" />
+      <edge source="Jérôme Guéret" target="Riadh Shaiek" id="17" weight="2" />
+      <edge source="Jérôme Guéret" target="Benjamin Wainstain" id="18" weight="2" />
+      <edge source="Jérôme Delmas" target="Patrick Suel" id="19" weight="2" />
+      <edge source="Jérôme Delmas" target="Markus Solibieda" id="20" weight="2" />
+      <edge source="Jérôme Delmas" target="Cédric Rolland" id="21" weight="2" />
+      <edge source="Jérôme Delmas" target="Riadh Shaiek" id="22" weight="2" />
+      <edge source="Jérôme Delmas" target="Benjamin Wainstain" id="23" weight="2" />
+      <edge source="Patrick Suel" target="Markus Solibieda" id="24" weight="2" />
+      <edge source="Patrick Suel" target="Cédric Rolland" id="25" weight="2" />
+      <edge source="Patrick Suel" target="Riadh Shaiek" id="26" weight="2" />
+      <edge source="Patrick Suel" target="Benjamin Wainstain" id="27" weight="2" />
+      <edge source="Markus Solibieda" target="Cédric Rolland" id="28" weight="2" />
+      <edge source="Markus Solibieda" target="Riadh Shaiek" id="29" weight="2" />
+      <edge source="Markus Solibieda" target="Benjamin Wainstain" id="30" weight="2" />
+      <edge source="Cédric Rolland" target="Riadh Shaiek" id="31" weight="2" />
+      <edge source="Cédric Rolland" target="Benjamin Wainstain" id="32" weight="2" />
+      <edge source="Riadh Shaiek" target="Benjamin Wainstain" id="33" weight="2" />
+      <edge source="Kanyi Maqubela" target="Joséphine Marie" id="34" weight="2" />
+      <edge source="Joséphine Marie" target="Dominique Gaillard" id="35" weight="3" />
+      <edge source="Joséphine Marie" target="Erik Orsenna" id="36" weight="3" />
+      <edge source="Joséphine Marie" target="Patrice Bégay" id="37" weight="2" />
+      <edge source="Joséphine Marie" target="Jenny Rooke" id="38" weight="2" />
+      <edge source="Joséphine Marie" target="Thierry Laugel" id="39" weight="4" />
+      <edge source="Joséphine Marie" target="Michael Krel" id="40" weight="2" />
+      <edge source="Joséphine Marie" target="Nicolas Maurin" id="41" weight="2" />
+      <edge source="Joséphine Marie" target="Franck Lescure" id="42" weight="2" />
+      <edge source="Joséphine Marie" target="Louise Chopinet" id="43" weight="2" />
+      <edge source="Clémentine Cazenave" target="Marius Dantl" id="44" weight="2" />
+      <edge source="Clémentine Cazenave" target="Stephane Roussel" id="45" weight="2" />
+      <edge source="Clémentine Cazenave" target="Michael Krel" id="46" weight="3" />
+      <edge source="Clémentine Cazenave" target="Samia Belabed" id="47" weight="2" />
+      <edge source="Clémentine Cazenave" target="Michael Brandkamp" id="48" weight="2" />
+      <edge source="Marius Dantl" target="Stephane Roussel" id="49" weight="2" />
+      <edge source="Marius Dantl" target="Michael Krel" id="50" weight="3" />
+      <edge source="Marius Dantl" target="Samia Belabed" id="51" weight="2" />
+      <edge source="Marius Dantl" target="Michael Brandkamp" id="52" weight="2" />
+      <edge source="Stephane Roussel" target="Michael Krel" id="53" weight="3" />
+      <edge source="Stephane Roussel" target="Samia Belabed" id="54" weight="2" />
+      <edge source="Stephane Roussel" target="Michael Brandkamp" id="55" weight="2" />
+      <edge source="Michael Krel" target="Samia Belabed" id="56" weight="3" />
+      <edge source="Michael Krel" target="Michael Brandkamp" id="57" weight="3" />
+      <edge source="Michael Krel" target="Jenny Rooke" id="58" weight="2" />
+      <edge source="Michael Krel" target="Thierry Laugel" id="59" weight="4" />
+      <edge source="Samia Belabed" target="Michael Brandkamp" id="60" weight="2" />
+      <edge source="Edouard Combette" target="Tom Greene" id="61" weight="2" />
+      <edge source="Edouard Combette" target="Baptiste Tellier" id="62" weight="3" />
+      <edge source="Edouard Combette" target="Guillaume Baxter" id="63" weight="2" />
+      <edge source="Edouard Combette" target="Anouk Veber" id="64" weight="2" />
+      <edge source="Edouard Combette" target="Romain Sautrau" id="65" weight="4" />
+      <edge source="Edouard Combette" target="Lionel Artusio-Payot" id="66" weight="2" />
+      <edge source="Edouard Combette" target="Denis Lucquin" id="67" weight="4" />
+      <edge source="Edouard Combette" target="Jean-Michel Petit" id="68" weight="3" />
+      <edge source="Tom Greene" target="Baptiste Tellier" id="69" weight="3" />
+      <edge source="Tom Greene" target="Guillaume Baxter" id="70" weight="2" />
+      <edge source="Tom Greene" target="Anouk Veber" id="71" weight="2" />
+      <edge source="Tom Greene" target="Romain Sautrau" id="72" weight="4" />
+      <edge source="Tom Greene" target="Lionel Artusio-Payot" id="73" weight="2" />
+      <edge source="Tom Greene" target="Denis Lucquin" id="74" weight="4" />
+      <edge source="Tom Greene" target="Jean-Michel Petit" id="75" weight="3" />
+      <edge source="Baptiste Tellier" target="Guillaume Baxter" id="76" weight="3" />
+      <edge source="Baptiste Tellier" target="Anouk Veber" id="77" weight="3" />
+      <edge source="Baptiste Tellier" target="Romain Sautrau" id="78" weight="5" />
+      <edge source="Baptiste Tellier" target="Lionel Artusio-Payot" id="79" weight="3" />
+      <edge source="Baptiste Tellier" target="Denis Lucquin" id="80" weight="5" />
+      <edge source="Baptiste Tellier" target="Jean-Michel Petit" id="81" weight="4" />
+      <edge source="Guillaume Baxter" target="Anouk Veber" id="82" weight="2" />
+      <edge source="Guillaume Baxter" target="Romain Sautrau" id="83" weight="4" />
+      <edge source="Guillaume Baxter" target="Lionel Artusio-Payot" id="84" weight="2" />
+      <edge source="Guillaume Baxter" target="Denis Lucquin" id="85" weight="4" />
+      <edge source="Guillaume Baxter" target="Jean-Michel Petit" id="86" weight="3" />
+      <edge source="Anouk Veber" target="Romain Sautrau" id="87" weight="4" />
+      <edge source="Anouk Veber" target="Lionel Artusio-Payot" id="88" weight="2" />
+      <edge source="Anouk Veber" target="Denis Lucquin" id="89" weight="4" />
+      <edge source="Anouk Veber" target="Jean-Michel Petit" id="90" weight="3" />
+      <edge source="Romain Sautrau" target="Lionel Artusio-Payot" id="91" weight="4" />
+      <edge source="Romain Sautrau" target="Denis Lucquin" id="92" weight="6" />
+      <edge source="Romain Sautrau" target="Jean-Michel Petit" id="93" weight="5" />
+      <edge source="Lionel Artusio-Payot" target="Denis Lucquin" id="94" weight="4" />
+      <edge source="Lionel Artusio-Payot" target="Jean-Michel Petit" id="95" weight="3" />
+      <edge source="Denis Lucquin" target="Jean-Michel Petit" id="96" weight="5" />
+      <edge source="Hans Marteau" target="Cindy Ung" id="97" weight="2" />
+      <edge source="Hans Marteau" target="Christopher Tritten" id="98" weight="2" />
+      <edge source="Hans Marteau" target="Hendrik Van Asbroeck" id="99" weight="2" />
+      <edge source="Cindy Ung" target="Christopher Tritten" id="100" weight="2" />
+      <edge source="Cindy Ung" target="Hendrik Van Asbroeck" id="101" weight="2" />
+      <edge source="Christopher Tritten" target="Hendrik Van Asbroeck" id="102" weight="2" />
+      <edge source="Emmanuel Audouard" target="Isabelle de Cremoux" id="103" weight="2" />
+      <edge source="Gabriel Giabicani" target="Alexandre Scherer" id="104" weight="2" />
+      <edge source="Marie-Anne Dupin-Vermersch" target="Thomas Delasnerie" id="105" weight="2" />
+      <edge source="Marie-Anne Dupin-Vermersch" target="Mathieu Goudot" id="106" weight="2" />
+      <edge source="Marie-Anne Dupin-Vermersch" target="John Samson" id="107" weight="2" />
+      <edge source="Marie-Anne Dupin-Vermersch" target="Léa Zaslavsky" id="108" weight="2" />
+      <edge source="Thomas Delasnerie" target="Mathieu Goudot" id="109" weight="2" />
+      <edge source="Thomas Delasnerie" target="John Samson" id="110" weight="2" />
+      <edge source="Thomas Delasnerie" target="Léa Zaslavsky" id="111" weight="2" />
+      <edge source="Mathieu Goudot" target="John Samson" id="112" weight="2" />
+      <edge source="Mathieu Goudot" target="Léa Zaslavsky" id="113" weight="2" />
+      <edge source="John Samson" target="Léa Zaslavsky" id="114" weight="2" />
+      <edge source="Eric Archambeau" target="Robert Downey" id="115" weight="4" />
+      <edge source="Eric Archambeau" target="Yves Sisteron" id="116" weight="5" />
+      <edge source="Eric Archambeau" target="Hans Wackwitz" id="117" weight="4" />
+      <edge source="Eric Archambeau" target="Jean-Paul Lemonnier" id="118" weight="4" />
+      <edge source="Eric Archambeau" target="Yassine Soual" id="119" weight="4" />
+      <edge source="Eric Archambeau" target="Matthieu Vermersch" id="120" weight="6" />
+      <edge source="Eric Archambeau" target="Benoit Deckers" id="121" weight="4" />
+      <edge source="Eric Archambeau" target="Sofia Hmich" id="122" weight="5" />
+      <edge source="Eric Archambeau" target="Matus Maar" id="123" weight="4" />
+      <edge source="Eric Archambeau" target="Gilles Schang" id="124" weight="4" />
+      <edge source="Robert Downey" target="Yves Sisteron" id="125" weight="3" />
+      <edge source="Robert Downey" target="Hans Wackwitz" id="126" weight="2" />
+      <edge source="Robert Downey" target="Jean-Paul Lemonnier" id="127" weight="2" />
+      <edge source="Robert Downey" target="Yassine Soual" id="128" weight="2" />
+      <edge source="Robert Downey" target="Matthieu Vermersch" id="129" weight="4" />
+      <edge source="Robert Downey" target="Benoit Deckers" id="130" weight="2" />
+      <edge source="Robert Downey" target="Sofia Hmich" id="131" weight="3" />
+      <edge source="Robert Downey" target="Matus Maar" id="132" weight="2" />
+      <edge source="Robert Downey" target="Gilles Schang" id="133" weight="2" />
+      <edge source="Yves Sisteron" target="Hans Wackwitz" id="134" weight="3" />
+      <edge source="Yves Sisteron" target="Jean-Paul Lemonnier" id="135" weight="3" />
+      <edge source="Yves Sisteron" target="Yassine Soual" id="136" weight="3" />
+      <edge source="Yves Sisteron" target="Matthieu Vermersch" id="137" weight="5" />
+      <edge source="Yves Sisteron" target="Benoit Deckers" id="138" weight="3" />
+      <edge source="Yves Sisteron" target="Sofia Hmich" id="139" weight="4" />
+      <edge source="Yves Sisteron" target="Matus Maar" id="140" weight="3" />
+      <edge source="Yves Sisteron" target="Gilles Schang" id="141" weight="3" />
+      <edge source="Hans Wackwitz" target="Jean-Paul Lemonnier" id="142" weight="2" />
+      <edge source="Hans Wackwitz" target="Yassine Soual" id="143" weight="2" />
+      <edge source="Hans Wackwitz" target="Matthieu Vermersch" id="144" weight="4" />
+      <edge source="Hans Wackwitz" target="Benoit Deckers" id="145" weight="2" />
+      <edge source="Hans Wackwitz" target="Sofia Hmich" id="146" weight="3" />
+      <edge source="Hans Wackwitz" target="Matus Maar" id="147" weight="2" />
+      <edge source="Hans Wackwitz" target="Gilles Schang" id="148" weight="2" />
+      <edge source="Jean-Paul Lemonnier" target="Yassine Soual" id="149" weight="2" />
+      <edge source="Jean-Paul Lemonnier" target="Matthieu Vermersch" id="150" weight="4" />
+      <edge source="Jean-Paul Lemonnier" target="Benoit Deckers" id="151" weight="2" />
+      <edge source="Jean-Paul Lemonnier" target="Sofia Hmich" id="152" weight="3" />
+      <edge source="Jean-Paul Lemonnier" target="Matus Maar" id="153" weight="2" />
+      <edge source="Jean-Paul Lemonnier" target="Gilles Schang" id="154" weight="2" />
+      <edge source="Yassine Soual" target="Matthieu Vermersch" id="155" weight="4" />
+      <edge source="Yassine Soual" target="Benoit Deckers" id="156" weight="2" />
+      <edge source="Yassine Soual" target="Sofia Hmich" id="157" weight="3" />
+      <edge source="Yassine Soual" target="Matus Maar" id="158" weight="2" />
+      <edge source="Yassine Soual" target="Gilles Schang" id="159" weight="2" />
+      <edge source="Matthieu Vermersch" target="Benoit Deckers" id="160" weight="4" />
+      <edge source="Matthieu Vermersch" target="Sofia Hmich" id="161" weight="5" />
+      <edge source="Matthieu Vermersch" target="Matus Maar" id="162" weight="4" />
+      <edge source="Matthieu Vermersch" target="Gilles Schang" id="163" weight="4" />
+      <edge source="Benoit Deckers" target="Sofia Hmich" id="164" weight="3" />
+      <edge source="Benoit Deckers" target="Matus Maar" id="165" weight="2" />
+      <edge source="Benoit Deckers" target="Gilles Schang" id="166" weight="2" />
+      <edge source="Sofia Hmich" target="Matus Maar" id="167" weight="3" />
+      <edge source="Sofia Hmich" target="Gilles Schang" id="168" weight="3" />
+      <edge source="Matus Maar" target="Gilles Schang" id="169" weight="2" />
+      <edge source="Rod Mainland" target="Carmichael Roberts" id="170" weight="2" />
+      <edge source="Dominique Gaillard" target="Erik Orsenna" id="171" weight="4" />
+      <edge source="Dominique Gaillard" target="Patrice Bégay" id="172" weight="3" />
+      <edge source="Erik Orsenna" target="Patrice Bégay" id="173" weight="3" />
+      <edge source="Jenny Rooke" target="Thierry Laugel" id="174" weight="4" />
+      <edge source="Bradley Mullen" target="Tim Seears" id="175" weight="2" />
+      <edge source="Bradley Mullen" target="Zachary Gilula" id="176" weight="2" />
+      <edge source="Tim Seears" target="Zachary Gilula" id="177" weight="2" />
+      <edge source="Kevin Eggers" target="Erik Karlsson" id="178" weight="2" />
+      <edge source="Franck Lescure" target="Louise Chopinet" id="179" weight="2" />
+      <edge source="Philippe Renaudin" target="Stephane Lefevre-Sauli" id="180" weight="2" />
+      <edge source="Pierre-Eric Leibovici" target="Solomon Hykes" id="181" weight="4" />
+      <edge source="Pierre-Eric Leibovici" target="Edouard Petit" id="182" weight="4" />
+      <edge source="Pierre-Eric Leibovici" target="Grégoire Boutin" id="183" weight="4" />
+      <edge source="Pierre-Eric Leibovici" target="Henri Seydoux" id="184" weight="5" />
+      <edge source="Pierre-Eric Leibovici" target="Jacques-Antoine Granjon" id="185" weight="4" />
+      <edge source="Pierre-Eric Leibovici" target="Oussama Ammar" id="186" weight="4" />
+      <edge source="Pierre-Eric Leibovici" target="Thibaud Elziere" id="187" weight="4" />
+      <edge source="Pierre-Eric Leibovici" target="Willy Braun" id="188" weight="4" />
+      <edge source="Pierre-Eric Leibovici" target="Cyril Grislain" id="189" weight="4" />
+      <edge source="Pierre-Eric Leibovici" target="Jean-Daniel Guyot" id="190" weight="4" />
+      <edge source="Solomon Hykes" target="Edouard Petit" id="191" weight="2" />
+      <edge source="Solomon Hykes" target="Grégoire Boutin" id="192" weight="2" />
+      <edge source="Solomon Hykes" target="Henri Seydoux" id="193" weight="3" />
+      <edge source="Solomon Hykes" target="Jacques-Antoine Granjon" id="194" weight="2" />
+      <edge source="Solomon Hykes" target="Oussama Ammar" id="195" weight="2" />
+      <edge source="Solomon Hykes" target="Thibaud Elziere" id="196" weight="2" />
+      <edge source="Solomon Hykes" target="Willy Braun" id="197" weight="2" />
+      <edge source="Solomon Hykes" target="Cyril Grislain" id="198" weight="2" />
+      <edge source="Solomon Hykes" target="Jean-Daniel Guyot" id="199" weight="2" />
+      <edge source="Edouard Petit" target="Grégoire Boutin" id="200" weight="2" />
+      <edge source="Edouard Petit" target="Henri Seydoux" id="201" weight="3" />
+      <edge source="Edouard Petit" target="Jacques-Antoine Granjon" id="202" weight="2" />
+      <edge source="Edouard Petit" target="Oussama Ammar" id="203" weight="2" />
+      <edge source="Edouard Petit" target="Thibaud Elziere" id="204" weight="2" />
+      <edge source="Edouard Petit" target="Willy Braun" id="205" weight="2" />
+      <edge source="Edouard Petit" target="Cyril Grislain" id="206" weight="2" />
+      <edge source="Edouard Petit" target="Jean-Daniel Guyot" id="207" weight="2" />
+      <edge source="Grégoire Boutin" target="Henri Seydoux" id="208" weight="3" />
+      <edge source="Grégoire Boutin" target="Jacques-Antoine Granjon" id="209" weight="2" />
+      <edge source="Grégoire Boutin" target="Oussama Ammar" id="210" weight="2" />
+      <edge source="Grégoire Boutin" target="Thibaud Elziere" id="211" weight="2" />
+      <edge source="Grégoire Boutin" target="Willy Braun" id="212" weight="2" />
+      <edge source="Grégoire Boutin" target="Cyril Grislain" id="213" weight="2" />
+      <edge source="Grégoire Boutin" target="Jean-Daniel Guyot" id="214" weight="2" />
+      <edge source="Henri Seydoux" target="Jacques-Antoine Granjon" id="215" weight="3" />
+      <edge source="Henri Seydoux" target="Oussama Ammar" id="216" weight="3" />
+      <edge source="Henri Seydoux" target="Thibaud Elziere" id="217" weight="3" />
+      <edge source="Henri Seydoux" target="Willy Braun" id="218" weight="3" />
+      <edge source="Henri Seydoux" target="Cyril Grislain" id="219" weight="3" />
+      <edge source="Henri Seydoux" target="Jean-Daniel Guyot" id="220" weight="3" />
+      <edge source="Jacques-Antoine Granjon" target="Oussama Ammar" id="221" weight="2" />
+      <edge source="Jacques-Antoine Granjon" target="Thibaud Elziere" id="222" weight="2" />
+      <edge source="Jacques-Antoine Granjon" target="Willy Braun" id="223" weight="2" />
+      <edge source="Jacques-Antoine Granjon" target="Cyril Grislain" id="224" weight="2" />
+      <edge source="Jacques-Antoine Granjon" target="Jean-Daniel Guyot" id="225" weight="2" />
+      <edge source="Jacques-Antoine Granjon" target="Didier Rousseau" id="226" weight="2" />
+      <edge source="Jacques-Antoine Granjon" target="Thierry Gillier" id="227" weight="2" />
+      <edge source="Oussama Ammar" target="Thibaud Elziere" id="228" weight="2" />
+      <edge source="Oussama Ammar" target="Willy Braun" id="229" weight="2" />
+      <edge source="Oussama Ammar" target="Cyril Grislain" id="230" weight="2" />
+      <edge source="Oussama Ammar" target="Jean-Daniel Guyot" id="231" weight="2" />
+      <edge source="Thibaud Elziere" target="Willy Braun" id="232" weight="2" />
+      <edge source="Thibaud Elziere" target="Cyril Grislain" id="233" weight="2" />
+      <edge source="Thibaud Elziere" target="Jean-Daniel Guyot" id="234" weight="2" />
+      <edge source="Willy Braun" target="Cyril Grislain" id="235" weight="2" />
+      <edge source="Willy Braun" target="Jean-Daniel Guyot" id="236" weight="2" />
+      <edge source="Cyril Grislain" target="Jean-Daniel Guyot" id="237" weight="2" />
+      <edge source="Didier Rousseau" target="Thierry Gillier" id="238" weight="2" />
+      <edge source="Jean-Philippe Bour" target="Stéphane Zittoun" id="239" weight="2" />
+      <edge source="Alain Mallart" target="Anne Lauvergeon" id="240" weight="2" />
+      <edge source="Alain Mallart" target="Edouard Louis-Dreyfus" id="241" weight="2" />
+      <edge source="Alain Mallart" target="Xavier Niel" id="242" weight="2" />
+      <edge source="Alain Mallart" target="Yannick Naud" id="243" weight="2" />
+      <edge source="Anne Lauvergeon" target="Edouard Louis-Dreyfus" id="244" weight="2" />
+      <edge source="Anne Lauvergeon" target="Xavier Niel" id="245" weight="2" />
+      <edge source="Anne Lauvergeon" target="Yannick Naud" id="246" weight="2" />
+      <edge source="Edouard Louis-Dreyfus" target="Xavier Niel" id="247" weight="2" />
+      <edge source="Edouard Louis-Dreyfus" target="Yannick Naud" id="248" weight="2" />
+      <edge source="Xavier Niel" target="Yannick Naud" id="249" weight="2" />
+      <edge source="Isabelle Spender" target="Laurent Hau" id="250" weight="2" />
+    </edges>
+  </graph>
+</gexf>

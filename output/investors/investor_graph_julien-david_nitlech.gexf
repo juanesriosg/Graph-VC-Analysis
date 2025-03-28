@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-03-28">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Christian Resch" label="Christian Resch">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Julien-David Nitlech" label="Julien-David Nitlech">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="François Collet" label="François Collet">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Sonali De Rycker" label="Sonali De Rycker">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Thomas Weisman" label="Thomas Weisman">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Charles Birnbaum" label="Charles Birnbaum">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Adam Valkin" label="Adam Valkin">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Michael Chen" label="Michael Chen">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Javier Santiso" label="Javier Santiso">
+        <attvalues>
+          <attvalue for="0" value="Business Products and Services (B2B)" />
+        </attvalues>
+      </node>
+      <node id="Victor Briançon-Marjollet" label="Victor Briançon-Marjollet">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Philippe Gire" label="Philippe Gire">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Brian O'Kelley" label="Brian O'Kelley">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Ashley Silver" label="Ashley Silver">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Jimmy Anidjar" label="Jimmy Anidjar">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Michael Rubenstein" label="Michael Rubenstein">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Philippe Finkelstein" label="Philippe Finkelstein">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Pierre Conte" label="Pierre Conte">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Stanislas Quercize" label="Stanislas Quercize">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Philippe Ait-Yahia" label="Philippe Ait-Yahia">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Tatiana Jama" label="Tatiana Jama">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Christian Resch" target="Julien-David Nitlech" id="0" weight="4" />
+      <edge source="Christian Resch" target="François Collet" id="1" weight="3" />
+      <edge source="Julien-David Nitlech" target="François Collet" id="2" weight="5" />
+      <edge source="Julien-David Nitlech" target="Sonali De Rycker" id="3" weight="8" />
+      <edge source="Julien-David Nitlech" target="Thomas Weisman" id="4" weight="5" />
+      <edge source="Julien-David Nitlech" target="Charles Birnbaum" id="5" weight="5" />
+      <edge source="Julien-David Nitlech" target="Adam Valkin" id="6" weight="6" />
+      <edge source="Julien-David Nitlech" target="Michael Chen" id="7" weight="5" />
+      <edge source="Julien-David Nitlech" target="Javier Santiso" id="8" weight="5" />
+      <edge source="Julien-David Nitlech" target="Victor Briançon-Marjollet" id="9" weight="5" />
+      <edge source="Julien-David Nitlech" target="Philippe Gire" id="10" weight="6" />
+      <edge source="Julien-David Nitlech" target="Brian O'Kelley" id="11" weight="4" />
+      <edge source="Julien-David Nitlech" target="Ashley Silver" id="12" weight="3" />
+      <edge source="Julien-David Nitlech" target="Jimmy Anidjar" id="13" weight="3" />
+      <edge source="Julien-David Nitlech" target="Michael Rubenstein" id="14" weight="4" />
+      <edge source="Julien-David Nitlech" target="Philippe Finkelstein" id="15" weight="4" />
+      <edge source="Julien-David Nitlech" target="Pierre Conte" id="16" weight="3" />
+      <edge source="Julien-David Nitlech" target="Stanislas Quercize" id="17" weight="3" />
+      <edge source="Julien-David Nitlech" target="Philippe Ait-Yahia" id="18" weight="3" />
+      <edge source="Julien-David Nitlech" target="Tatiana Jama" id="19" weight="3" />
+      <edge source="Sonali De Rycker" target="Thomas Weisman" id="20" weight="5" />
+      <edge source="Sonali De Rycker" target="Charles Birnbaum" id="21" weight="5" />
+      <edge source="Sonali De Rycker" target="Adam Valkin" id="22" weight="6" />
+      <edge source="Sonali De Rycker" target="Michael Chen" id="23" weight="5" />
+      <edge source="Sonali De Rycker" target="Javier Santiso" id="24" weight="5" />
+      <edge source="Sonali De Rycker" target="Victor Briançon-Marjollet" id="25" weight="5" />
+      <edge source="Sonali De Rycker" target="Philippe Gire" id="26" weight="6" />
+      <edge source="Thomas Weisman" target="Charles Birnbaum" id="27" weight="2" />
+      <edge source="Thomas Weisman" target="Adam Valkin" id="28" weight="3" />
+      <edge source="Thomas Weisman" target="Michael Chen" id="29" weight="2" />
+      <edge source="Thomas Weisman" target="Javier Santiso" id="30" weight="2" />
+      <edge source="Thomas Weisman" target="Victor Briançon-Marjollet" id="31" weight="2" />
+      <edge source="Thomas Weisman" target="Philippe Gire" id="32" weight="3" />
+      <edge source="Charles Birnbaum" target="Adam Valkin" id="33" weight="3" />
+      <edge source="Charles Birnbaum" target="Michael Chen" id="34" weight="2" />
+      <edge source="Charles Birnbaum" target="Javier Santiso" id="35" weight="2" />
+      <edge source="Charles Birnbaum" target="Victor Briançon-Marjollet" id="36" weight="2" />
+      <edge source="Charles Birnbaum" target="Philippe Gire" id="37" weight="3" />
+      <edge source="Adam Valkin" target="Michael Chen" id="38" weight="3" />
+      <edge source="Adam Valkin" target="Javier Santiso" id="39" weight="3" />
+      <edge source="Adam Valkin" target="Victor Briançon-Marjollet" id="40" weight="3" />
+      <edge source="Adam Valkin" target="Philippe Gire" id="41" weight="4" />
+      <edge source="Michael Chen" target="Javier Santiso" id="42" weight="2" />
+      <edge source="Michael Chen" target="Victor Briançon-Marjollet" id="43" weight="2" />
+      <edge source="Michael Chen" target="Philippe Gire" id="44" weight="3" />
+      <edge source="Javier Santiso" target="Victor Briançon-Marjollet" id="45" weight="2" />
+      <edge source="Javier Santiso" target="Philippe Gire" id="46" weight="3" />
+      <edge source="Victor Briançon-Marjollet" target="Philippe Gire" id="47" weight="3" />
+      <edge source="Brian O'Kelley" target="Ashley Silver" id="48" weight="3" />
+      <edge source="Brian O'Kelley" target="Jimmy Anidjar" id="49" weight="3" />
+      <edge source="Brian O'Kelley" target="Michael Rubenstein" id="50" weight="4" />
+      <edge source="Brian O'Kelley" target="Philippe Finkelstein" id="51" weight="4" />
+      <edge source="Brian O'Kelley" target="Pierre Conte" id="52" weight="3" />
+      <edge source="Brian O'Kelley" target="Stanislas Quercize" id="53" weight="3" />
+      <edge source="Brian O'Kelley" target="Philippe Ait-Yahia" id="54" weight="3" />
+      <edge source="Brian O'Kelley" target="Tatiana Jama" id="55" weight="3" />
+      <edge source="Ashley Silver" target="Jimmy Anidjar" id="56" weight="2" />
+      <edge source="Ashley Silver" target="Michael Rubenstein" id="57" weight="3" />
+      <edge source="Ashley Silver" target="Philippe Finkelstein" id="58" weight="3" />
+      <edge source="Ashley Silver" target="Pierre Conte" id="59" weight="2" />
+      <edge source="Ashley Silver" target="Stanislas Quercize" id="60" weight="2" />
+      <edge source="Ashley Silver" target="Philippe Ait-Yahia" id="61" weight="2" />
+      <edge source="Ashley Silver" target="Tatiana Jama" id="62" weight="2" />
+      <edge source="Jimmy Anidjar" target="Michael Rubenstein" id="63" weight="3" />
+      <edge source="Jimmy Anidjar" target="Philippe Finkelstein" id="64" weight="3" />
+      <edge source="Jimmy Anidjar" target="Pierre Conte" id="65" weight="2" />
+      <edge source="Jimmy Anidjar" target="Stanislas Quercize" id="66" weight="2" />
+      <edge source="Jimmy Anidjar" target="Philippe Ait-Yahia" id="67" weight="2" />
+      <edge source="Jimmy Anidjar" target="Tatiana Jama" id="68" weight="2" />
+      <edge source="Michael Rubenstein" target="Philippe Finkelstein" id="69" weight="4" />
+      <edge source="Michael Rubenstein" target="Pierre Conte" id="70" weight="3" />
+      <edge source="Michael Rubenstein" target="Stanislas Quercize" id="71" weight="3" />
+      <edge source="Michael Rubenstein" target="Philippe Ait-Yahia" id="72" weight="3" />
+      <edge source="Michael Rubenstein" target="Tatiana Jama" id="73" weight="3" />
+      <edge source="Philippe Finkelstein" target="Pierre Conte" id="74" weight="3" />
+      <edge source="Philippe Finkelstein" target="Stanislas Quercize" id="75" weight="3" />
+      <edge source="Philippe Finkelstein" target="Philippe Ait-Yahia" id="76" weight="3" />
+      <edge source="Philippe Finkelstein" target="Tatiana Jama" id="77" weight="3" />
+      <edge source="Pierre Conte" target="Stanislas Quercize" id="78" weight="2" />
+      <edge source="Pierre Conte" target="Philippe Ait-Yahia" id="79" weight="2" />
+      <edge source="Pierre Conte" target="Tatiana Jama" id="80" weight="2" />
+      <edge source="Stanislas Quercize" target="Philippe Ait-Yahia" id="81" weight="2" />
+      <edge source="Stanislas Quercize" target="Tatiana Jama" id="82" weight="2" />
+      <edge source="Philippe Ait-Yahia" target="Tatiana Jama" id="83" weight="2" />
+    </edges>
+  </graph>
+</gexf>

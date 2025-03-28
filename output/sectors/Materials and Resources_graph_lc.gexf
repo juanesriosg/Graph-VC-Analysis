@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-03-28">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Michael Krel" label="Michael Krel">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Michael Brandkamp" label="Michael Brandkamp">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Marius Dantl" label="Marius Dantl">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Thierry Laugel" label="Thierry Laugel">
+        <attvalues>
+          <attvalue for="0" value="Healthcare" />
+        </attvalues>
+      </node>
+      <node id="Joséphine Marie" label="Joséphine Marie">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Dominique Gaillard" label="Dominique Gaillard">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Erik Orsenna" label="Erik Orsenna">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Kanyi Maqubela" label="Kanyi Maqubela">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Patrice Bégay" label="Patrice Bégay">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Nicolas Maurin" label="Nicolas Maurin">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Louise Chopinet" label="Louise Chopinet">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Jenny Rooke" label="Jenny Rooke">
+        <attvalues>
+          <attvalue for="0" value="Materials and Resources" />
+        </attvalues>
+      </node>
+      <node id="Clémentine Cazenave" label="Clémentine Cazenave">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Franck Lescure" label="Franck Lescure">
+        <attvalues>
+          <attvalue for="0" value="Healthcare" />
+        </attvalues>
+      </node>
+      <node id="Samia Belabed" label="Samia Belabed">
+        <attvalues>
+          <attvalue for="0" value="Business Products and Services (B2B)" />
+        </attvalues>
+      </node>
+      <node id="Stephane Roussel" label="Stephane Roussel">
+        <attvalues>
+          <attvalue for="0" value="Business Products and Services (B2B)" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Michael Krel" target="Clémentine Cazenave" id="0" weight="3" />
+      <edge source="Michael Krel" target="Marius Dantl" id="1" weight="3" />
+      <edge source="Michael Krel" target="Stephane Roussel" id="2" weight="3" />
+      <edge source="Michael Krel" target="Samia Belabed" id="3" weight="3" />
+      <edge source="Michael Krel" target="Michael Brandkamp" id="4" weight="3" />
+      <edge source="Michael Krel" target="Joséphine Marie" id="5" weight="2" />
+      <edge source="Michael Krel" target="Jenny Rooke" id="6" weight="2" />
+      <edge source="Michael Krel" target="Thierry Laugel" id="7" weight="4" />
+      <edge source="Michael Brandkamp" target="Clémentine Cazenave" id="8" weight="2" />
+      <edge source="Michael Brandkamp" target="Marius Dantl" id="9" weight="2" />
+      <edge source="Michael Brandkamp" target="Stephane Roussel" id="10" weight="2" />
+      <edge source="Michael Brandkamp" target="Samia Belabed" id="11" weight="2" />
+      <edge source="Marius Dantl" target="Clémentine Cazenave" id="12" weight="2" />
+      <edge source="Marius Dantl" target="Stephane Roussel" id="13" weight="2" />
+      <edge source="Marius Dantl" target="Samia Belabed" id="14" weight="2" />
+      <edge source="Thierry Laugel" target="Joséphine Marie" id="15" weight="4" />
+      <edge source="Thierry Laugel" target="Jenny Rooke" id="16" weight="4" />
+      <edge source="Joséphine Marie" target="Kanyi Maqubela" id="17" weight="2" />
+      <edge source="Joséphine Marie" target="Dominique Gaillard" id="18" weight="3" />
+      <edge source="Joséphine Marie" target="Erik Orsenna" id="19" weight="3" />
+      <edge source="Joséphine Marie" target="Patrice Bégay" id="20" weight="2" />
+      <edge source="Joséphine Marie" target="Jenny Rooke" id="21" weight="2" />
+      <edge source="Joséphine Marie" target="Nicolas Maurin" id="22" weight="2" />
+      <edge source="Joséphine Marie" target="Franck Lescure" id="23" weight="2" />
+      <edge source="Joséphine Marie" target="Louise Chopinet" id="24" weight="2" />
+      <edge source="Dominique Gaillard" target="Erik Orsenna" id="25" weight="4" />
+      <edge source="Dominique Gaillard" target="Patrice Bégay" id="26" weight="3" />
+      <edge source="Erik Orsenna" target="Patrice Bégay" id="27" weight="3" />
+      <edge source="Louise Chopinet" target="Franck Lescure" id="28" weight="2" />
+      <edge source="Clémentine Cazenave" target="Stephane Roussel" id="29" weight="2" />
+      <edge source="Clémentine Cazenave" target="Samia Belabed" id="30" weight="2" />
+      <edge source="Samia Belabed" target="Stephane Roussel" id="31" weight="2" />
+    </edges>
+  </graph>
+</gexf>
